@@ -1,0 +1,8 @@
+/home/angster/Documents/hello/bin/Debug/netcoreapp1.1/hello.deps.json
+/home/angster/Documents/hello/bin/Debug/netcoreapp1.1/hello.runtimeconfig.json
+/home/angster/Documents/hello/bin/Debug/netcoreapp1.1/hello.runtimeconfig.dev.json
+/home/angster/Documents/hello/bin/Debug/netcoreapp1.1/hello.dll
+/home/angster/Documents/hello/bin/Debug/netcoreapp1.1/hello.pdb
+/home/angster/Documents/hello/obj/Debug/netcoreapp1.1/hello.AssemblyInfo.cs
+/home/angster/Documents/hello/obj/Debug/netcoreapp1.1/hello.dll
+/home/angster/Documents/hello/obj/Debug/netcoreapp1.1/hello.pdb
